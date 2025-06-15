@@ -26,7 +26,7 @@ from langchain_core.runnables import RunnablePassthrough
 from tqdm import tqdm
 
 # Set OpenAI API Key
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "YOUR-KEY"
 
 # Configure logging
 logging.basicConfig(
