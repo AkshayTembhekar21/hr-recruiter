@@ -1,0 +1,39 @@
+email,filename,similarity_score,analysis,resume_text,rank
+Akshay Tembhekar <akshaystembhekar@gmail.com>,TestResume.docx,0,I'm here to help with the analysis. Please provide me with the job description and the candidate's resume so I can begin the assessment.,"JOHN DOE
+Senior Python Developer
+john.doe@email.com  (555) 123-4567  LinkedIn linkedin.cominjohndoe
+
+PROFESSIONAL SUMMARY
+Experienced Python developer with 5+ years of expertise in building scalable web applications and RESTful APIs. Strong background in Django and Flask frameworks, with a focus on clean code and best practices.
+
+TECHNICAL SKILLS
+• Programming Languages Python, JavaScript, SQL
+• Frameworks Django, Flask, React
+• Databases PostgreSQL, MongoDB
+• Tools Git, Docker, AWS, Jenkins
+• Testing PyTest, Selenium
+
+PROFESSIONAL EXPERIENCE
+
+Senior Python Developer  Tech Solutions Inc.
+2020 - Present
+• Developed and maintained multiple Django-based web applications
+• Implemented RESTful APIs serving 1M+ daily requests
+• Led a team of 3 junior developers
+• Reduced API response time by 40% through optimization
+• Implemented automated testing, achieving 85% code coverage
+
+Python Developer  Digital Innovations
+2018 - 2020
+• Built Flask-based microservices
+• Integrated payment gateways and third-party APIs
+• Implemented CICD pipelines using Jenkins
+• Developed automated testing frameworks
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of Technology, 2018
+
+CERTIFICATIONS
+• AWS Certified Developer
+• Python Professional Certification",1

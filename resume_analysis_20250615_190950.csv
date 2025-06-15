@@ -1,0 +1,65 @@
+email,filename,similarity_score,analysis,resume_text,rank
+Akshay Tembhekar <akshaystembhekar@gmail.com>,TestResume.docx,85,"Score: 85
+
+Technical Skills:
+The candidate demonstrates a strong match in technical skills. They have over 5 years of experience in Python, Django, and Flask, which aligns with the job requirements. While they have experience with PostgreSQL, they lack specific mention of MySQL. Additionally, the resume shows proficiency in Git, Docker, and AWS, which are nice-to-have skills in the job description. The candidate also has experience with unit testing but could provide more details on test-driven development.
+
+Experience:
+The candidate's work experience closely aligns with the job responsibilities. They have developed and maintained Python-based web applications using Django and Flask, implemented RESTful APIs, and led a team of junior developers. The candidate's achievements, such as optimizing API response time and implementing automated testing with high code coverage, demonstrate their ability to deliver high-quality solutions.
+
+Education:
+The candidate holds a Bachelor's degree in Computer Science, which is relevant to the role. Additionally, they have certifications in AWS and Python, showcasing their commitment to continuous learning and development in relevant areas.
+
+Soft Skills:
+The resume lacks explicit details on soft skills and cultural fit. While it mentions leading a team of junior developers, more information on collaboration with cross-functional teams, communication skills, and leadership initiatives would strengthen this section.
+
+Key Strengths:
+1. Strong experience in Python, Django, and Flask
+2. Proven track record in developing scalable web applications and RESTful APIs
+3. Leadership experience in guiding junior developers
+4. Relevant education and certifications in AWS and Python
+
+Areas for Improvement:
+1. Provide more details on experience with MySQL databases
+2. Include specific examples of test-driven development experience
+3. Enhance the soft skills section by highlighting collaboration and communication abilities
+
+Overall Assessment:
+The candidate presents a solid match for the Python Developer role, with a strong technical skill set, relevant work experience, and educational background. Their achievements in optimizing performance and implementing best practices demonstrate their capabilities. To improve their application, the candidate should provide more specific details on certain technical skills, highlight test-driven development experience, and elaborate on soft skills to showcase their fit for collaborative environments.","JOHN DOE
+Senior Python Developer
+john.doe@email.com  (555) 123-4567  LinkedIn linkedin.cominjohndoe
+
+PROFESSIONAL SUMMARY
+Experienced Python developer with 5+ years of expertise in building scalable web applications and RESTful APIs. Strong background in Django and Flask frameworks, with a focus on clean code and best practices.
+
+TECHNICAL SKILLS
+• Programming Languages Python, JavaScript, SQL
+• Frameworks Django, Flask, React
+• Databases PostgreSQL, MongoDB
+• Tools Git, Docker, AWS, Jenkins
+• Testing PyTest, Selenium
+
+PROFESSIONAL EXPERIENCE
+
+Senior Python Developer  Tech Solutions Inc.
+2020 - Present
+• Developed and maintained multiple Django-based web applications
+• Implemented RESTful APIs serving 1M+ daily requests
+• Led a team of 3 junior developers
+• Reduced API response time by 40% through optimization
+• Implemented automated testing, achieving 85% code coverage
+
+Python Developer  Digital Innovations
+2018 - 2020
+• Built Flask-based microservices
+• Integrated payment gateways and third-party APIs
+• Implemented CICD pipelines using Jenkins
+• Developed automated testing frameworks
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of Technology, 2018
+
+CERTIFICATIONS
+• AWS Certified Developer
+• Python Professional Certification",1
